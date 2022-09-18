@@ -18,9 +18,9 @@
 
     <application
         android:allowBackup="false"
-        android:icon="@mipmap/ic_launcher"
-        android:roundIcon="@mipmap/ic_launcher_round"
-        android:label="@string/AppNameBeta"
+        android:icon="@mipmap/ic_launcher_calc"
+        android:roundIcon="@mipmap/ic_launcher_calc"
+        android:label="@string/calc_app_name"
         android:theme="@style/Theme.TMessages.Start"
         android:hardwareAccelerated="@bool/useHardwareAcceleration"
         android:largeHeap="true"

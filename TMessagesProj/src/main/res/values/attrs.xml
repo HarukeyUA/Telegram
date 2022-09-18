@@ -7,4 +7,10 @@
     <attr name="widgetPreviewTime" format="string" />
     <attr name="widgetPreviewImage" format="reference" />
     <attr name="widgetPreviewDot" format="integer" />
+
+    <declare-styleable name="CalculatorFormula">
+        <attr name="minTextSize" format="dimension" />
+        <attr name="maxTextSize" format="dimension" />
+        <attr name="stepTextSize" format="dimension" />
+    </declare-styleable>
 </resources>
